@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\bin\Debug\net6.0\HomeW60.exe
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\bin\Debug\net6.0\HomeW60.deps.json
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\bin\Debug\net6.0\HomeW60.runtimeconfig.json
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\bin\Debug\net6.0\HomeW60.dll
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\bin\Debug\net6.0\HomeW60.pdb
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.AssemblyInfo.cs
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.dll
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\refint\HomeW60.dll
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.pdb
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\HomeW60.genruntimeconfig.cache
+C:\Users\1\Desktop\Geek Brains\SEM8\HomeW60\obj\Debug\net6.0\ref\HomeW60.dll
